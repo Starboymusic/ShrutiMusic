@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://t.me/ShrutiBots"><img src="https://img.shields.io/badge/Support%20Channel-blue?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/ShrutiBots" alt="Support Channel"></a>
-  <a href="https://t.me/ShrutiBotSupport"><img src="https://img.shields.io/badge/Support%20Group-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Support Group"></a>
+  <a href="https://t.me/+YTq567GbiJY3M2Fl"><img src="https://img.shields.io/badge/Support%20Group-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Support Group"></a>
   <a href="https://t.me/WTF_WhyMeeh"><img src="https://img.shields.io/badge/Owner-purple?style=for-the-badge&logo=telegram&logoColor=white" alt="Owner"></a>
 </p>
 
@@ -178,7 +178,7 @@ LOG_GROUP_ID=-100xxxxxxxxx
 LOG_CHANNEL_ID=-100xxxxxxxxx
 
 # Support Links
-SUPPORT_GROUP=https://t.me/ShrutiBotSupport
+SUPPORT_GROUP=https://t.me/+YTq567GbiJY3M2Fl
 SUPPORT_CHANNEL=https://t.me/ShrutiBots
 
 # Music Settings
@@ -519,7 +519,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ### **Support & Community**
 - 📢 **Support Channel**: [@ShrutiBots](https://t.me/ShrutiBots)
-- 💬 **Support Group**: [@ShrutiBotSupport](https://t.me/ShrutiBotSupport)
+- 💬 **Support Group**: [@ShrutiBotSupport](https://t.me/+YTq567GbiJY3M2Fl)
 - 🔧 **Session Generator**: [@ShrutiSessionBot](https://t.me/ShrutiSessionBot)
 
 ### **Developer Resources**
