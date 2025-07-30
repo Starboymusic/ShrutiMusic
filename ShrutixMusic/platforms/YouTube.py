@@ -16,7 +16,7 @@ from youtubesearchpython.__future__ import VideosSearch
 
 # Cache configuration
 CACHE_FILE = "stream_cache.json"
-CACHE_EXPIRY_HOURS = 12
+CACHE_EXPIRY_HOURS = 72
 
 
 def time_to_seconds(time):
@@ -205,7 +205,7 @@ async def get_stream_url(query, video=False):
     
     # If cookies fail, try API
     api_url = "https://ccndev.live/youtube"
-    api_key = ""
+    api_key = "KwpvAVwsFKSL0mKDfRok07vCVOUGoYVK"
     
     try:
         async with httpx.AsyncClient(timeout=60) as client:
