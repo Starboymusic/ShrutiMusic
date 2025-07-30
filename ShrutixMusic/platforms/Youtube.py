@@ -205,7 +205,7 @@ async def get_stream_url(query, video=False):
     
     # If cookies fail, try API
     api_url = "https://ccndev.live/youtube"
-    api_key = ""
+    api_key = "PragyanX"
     
     try:
         async with httpx.AsyncClient(timeout=60) as client:
