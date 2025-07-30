@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://t.me/ShrutiBots"><img src="https://img.shields.io/badge/Support%20Channel-blue?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/ShrutiBots" alt="Support Channel"></a>
+  <a href="https://t.me/Star_Boy_96_vibes"><img src="https://img.shields.io/badge/Support%20Channel-blue?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/Star_Boy_96_vibes" alt="Support Channel"></a>
   <a href="https://t.me/+YTq567GbiJY3M2Fl"><img src="https://img.shields.io/badge/Support%20Group-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Support Group"></a>
   <a href="https://t.me/WTF_WhyMeeh"><img src="https://img.shields.io/badge/Owner-purple?style=for-the-badge&logo=telegram&logoColor=white" alt="Owner"></a>
 </p>
@@ -179,7 +179,7 @@ LOG_CHANNEL_ID=-100xxxxxxxxx
 
 # Support Links
 SUPPORT_GROUP=https://t.me/+YTq567GbiJY3M2Fl
-SUPPORT_CHANNEL=https://t.me/ShrutiBots
+SUPPORT_CHANNEL=https://t.me/Star_Boy_96_vibes
 
 # Music Settings
 DURATION_LIMIT_MIN=1440
@@ -518,7 +518,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 ## 🔗 Important Links
 
 ### **Support & Community**
-- 📢 **Support Channel**: [@ShrutiBots](https://t.me/ShrutiBots)
+- 📢 **Support Channel**: [@ShrutiBots](https://t.me/Star_Boy_96_vibes)
 - 💬 **Support Group**: [@ShrutiBotSupport](https://t.me/+YTq567GbiJY3M2Fl)
 - 🔧 **Session Generator**: [@ShrutiSessionBot](https://t.me/ShrutiSessionBot)
 
